@@ -1,6 +1,6 @@
 <h1 align='center'> Hi there 👋 Name's Evgesha or Evgeshechka for friends :) ) </h1>
 
-I'am a begginer coder, currently studying at college name="NKEiVT" as second-year student
+I'am a begginer coder
 
 [![Linkedin: 1Evgesha1](https://img.shields.io/badge/-1Evgesha1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/1Evgesha1/)](https://www.linkedin.com/in/1Evgesha1/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/1Evgesha1?label=follow&style=social)](https://github.com/1Evgesha1)
