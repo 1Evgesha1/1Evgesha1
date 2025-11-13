@@ -1,18 +1,18 @@
-<h1 align='center'> Hi there 👋 Name's Atlas)   <img src="https://i.postimg.cc/mkgDV7xr/image.gif" weight="30" height="30"></h1>
+<h1 align='center'> Hi there 👋 Name's Atlas) </h1>
 
 I'am a begginer coder, currently studying at college name="NKEiVT" as second-year student
 
-[![Linkedin: ATLASO4EK](https://img.shields.io/badge/-ATLASO4EK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ATLASO4EK/)](https://www.linkedin.com/in/ATLASO4EK/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/ATLASO4EK?label=follow&style=social)](https://github.com/ATLASO4EK)
+[![Linkedin: 1Evgesha1](https://img.shields.io/badge/-1Evgesha1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/1Evgesha1/)](https://www.linkedin.com/in/1Evgesha1/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/1Evgesha1?label=follow&style=social)](https://github.com/1Evgesha1)
 
-<h2>📌About me</h2>
+<h2>About me</h2>
 
 ```javascript
-const atlas = {
-  code: [Python, C#, SQL],
-  specialize: [PyTorch, Flask, PyTeleBot, WPF, ASP.net, PostgreSQL, SQLite]
+const evgesha = {
+  code: [Python],
+  specialize: [PyTorch, Flask, PyTeleBot, SQLite]
   tools: [Visual Studio, PyCharm, Git]
- challenge: "learn pure C for fun"
+ challenge: "learn C++ for fun"
 }
 ```
 
@@ -22,11 +22,11 @@ Languages:
 | Language | Status |
 |------|-----|
 | Russian | Native Language | 
-| English | B1 :( | 
-| Polish | In progress | 
+| English | B1 | 
+| Japanise | In progress | 
 
 Some things I'm learning now:
-- GAN NN Architecture
-- Begginings of C/C++
+- Flask
+- SQLite 
+- Begginings of C++
 ---
-Have a nice day (or night), visitor! 
