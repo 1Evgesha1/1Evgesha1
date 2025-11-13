@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋 Name's Atlas) </h1>
+<h1 align='center'> Hi there 👋 Name's Evgesha or Evgeshechka for friends :) ) </h1>
 
 I'am a begginer coder, currently studying at college name="NKEiVT" as second-year student
 
